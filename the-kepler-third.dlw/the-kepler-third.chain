@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1706
+slug  : the-kepler-third
+seal  : 58035934d9b860bccf0bf72525b668699473bf87bde637724818f80e97f12cf7
+prev  : 6acc66b98250f9fa167cc561dc18698a21b38e665953cb93c57346e8315167bd
+link  : 5d3853b87710b11a63258acb17439d0e970e343b52f0e448c608158563de02e0
+head  : cf96fcff3ba7f73a2182261b3fe3bf95851b53ca578bfd2294786b587897bf78
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
